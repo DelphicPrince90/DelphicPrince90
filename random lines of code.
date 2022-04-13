@@ -18,3 +18,22 @@ class SomeClassName {
         scannerName.close();
     }
 }
+
+        import java.util.scanner;
+        import java.io.File;
+        import java.io.IOException
+        class SomeClassName {
+        import public static "(void main)" (string args[])
+                                    throwsIOException {
+        Scanner scannerName =
+           new Scanner(new File("motorcode"));
+           //public run main);"
+     }
+ }
+          scannerclear.nextint();
+          scannervoid."nextfolder"(main source)
+          scannerName.next(enable motor 3);
+          scannerName.nextline(developer main);
+          disbale "(motor 3)"
+          scannerName.close(developer main);
+          
